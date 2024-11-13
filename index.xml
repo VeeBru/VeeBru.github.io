@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La vittoria :: La Vittoria</title>
+    <link>https://veebru.github.io/index.html</link>
+    <description>Benvenuti nella home page del mio sito!&#xA;qui raccolgo tutto quello che mi serve e mi interessa&#xA;usalo pure, ma magari fammelo sapere</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2024 15:58:59 +0100</lastBuildDate>
+    <atom:link href="https://veebru.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Progetti</title>
+      <link>https://veebru.github.io/progetti/index.html</link>
+      <pubDate>Wed, 13 Nov 2024 15:58:59 +0100</pubDate>
+      <guid>https://veebru.github.io/progetti/index.html</guid>
+      <description>qui tengo aggiornati i miei progetti.</description>
+    </item>
+    <item>
+      <title>Università</title>
+      <link>https://veebru.github.io/universit%C3%A0/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://veebru.github.io/universit%C3%A0/index.html</guid>
+      <description>qui si trovano i miei appunti sui corsi universitari che ho affrontato.&#xA;Gli schemi sono tratti dai libri citati in ogni pagina.&#xA;L’utilizzo di questo materiale è consentito per fini non commerciali, ma magari fammelo sapere e citami :)</description>
+    </item>
+  </channel>
+</rss>

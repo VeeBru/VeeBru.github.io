@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Università :: La Vittoria</title>
+    <link>https://veebru.github.io/universit%C3%A0/index.html</link>
+    <description>qui si trovano i miei appunti sui corsi universitari che ho affrontato.&#xA;Gli schemi sono tratti dai libri citati in ogni pagina.&#xA;L’utilizzo di questo materiale è consentito per fini non commerciali, ma magari fammelo sapere e citami :)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://veebru.github.io/universit%C3%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Storia dell&#39;  Antropologia</title>
+      <link>https://veebru.github.io/universit%C3%A0/storia-della-antropologia-fabietti/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://veebru.github.io/universit%C3%A0/storia-della-antropologia-fabietti/index.html</guid>
+      <description>i miei schemi ed appunti del libro &#34; Storia dell’antropologia &#34; di Ugo Fabietti 1&#xA;1 - L’ ottocento prima dell’antropologia come la intendiamo oggi c’era una tradizione antica di letteratura di viaggio caratterizzata da&#xA;mancanza di progetto scientifico connotazione morale dei “primitivi” esotismo Nei secoli emersero anche alcune eccezioni notabili come Jean de Lery che rifletteva sulla natura dei costumi dei Tupi del Brasile o Joseph-Francoise Lafitau che utilizzò l’analisi dei costumi dei nativi americani per criticare la società in cui viveva, inaugurando un primo stile comparativista come Michel de Montaigne e Jean Jacques Rousseau</description>
+    </item>
+  </channel>
+</rss>
