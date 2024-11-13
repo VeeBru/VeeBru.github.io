@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Push Github Website :: La Vittoria</title>
+    <link>https://veebru.github.io/tutorial/push-github-website/index.html</link>
+    <description>Ecco un tutorial chiaro per pubblicare su GitHub dopo molta fatica ho trovato questo tutorial chiarissimo che spiega come fare il push di un sito in Hugo su GitHub&#xA;l’unica cossa che manca è che GitHub chiederà di inserire nome utente e email all’atto di fare il commit. Ma basta seguire le istruzioni a schermo&#xA;attualmente seguo questa procedura per caricare il sito che stai leggendo.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://veebru.github.io/tutorial/push-github-website/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
