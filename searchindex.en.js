@@ -9,19 +9,27 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "La vittoria \u003e Tutorial",
-    "content": "Ecco un tutorial chiaro per pubblicare su GitHub dopo molta fatica ho trovato questo tutorial chiarissimo che spiega come fare il push di un sito in Hugo su GitHub\nl’unica cossa che manca è che GitHub chiederà di inserire nome utente e email all’atto di fare il commit. Ma basta seguire le istruzioni a schermo\nattualmente seguo questa procedura per caricare il sito che stai leggendo.",
-    "description": "Ecco un tutorial chiaro per pubblicare su GitHub dopo molta fatica ho trovato questo tutorial chiarissimo che spiega come fare il push di un sito in Hugo su GitHub\nl’unica cossa che manca è che GitHub chiederà di inserire nome utente e email all’atto di fare il commit. Ma basta seguire le istruzioni a schermo\nattualmente seguo questa procedura per caricare il sito che stai leggendo.",
+    "content": "Mi chiedevo se fosse possibile usare una repository di github come un archivio di materiale ( fotografie, documenti, cose da allegare ad email..)\nanche se cliccando sul file nella repository permette di copiare il permalink al file, le mie prove mi hanno fatto scoprire non è possibile usarlo per la condivisione: l’errore è File not Found\nspulciando vari forum ho capito che basta aggiungere\n?raw=true\nalla fine del permalink che ci da Github\nhttps://github.com/nome-utente/repository/blob/id-commit/nome-file.estensione?raw=true\rforse è una cosa banale ma io non lo sapevo!",
+    "description": "ottenere un link usabile dal permalink di Github",
     "tags": [],
-    "title": "Push Github Website",
-    "uri": "/tutorial/push-github-website/index.html"
+    "title": "permalink + ?raw=true",
+    "uri": "/tutorial/link-a-file-github/index.html"
   },
   {
     "breadcrumb": "La vittoria",
-    "content": "This is a new chapter.",
-    "description": "This is a new chapter.",
+    "content": "permalink + ?raw=trueottenere un link usabile dal permalink di Github\nPush Github Websitecome caricacare un sito su Github Pages e pubblicarlo sul web",
+    "description": "permalink + ?raw=trueottenere un link usabile dal permalink di Github\nPush Github Websitecome caricacare un sito su Github Pages e pubblicarlo sul web",
     "tags": [],
     "title": "Tutorial",
     "uri": "/tutorial/index.html"
+  },
+  {
+    "breadcrumb": "La vittoria \u003e Tutorial",
+    "content": "Ecco un tutorial chiaro per pubblicare su GitHub dopo molta fatica ho trovato questo tutorial chiarissimo che spiega come fare il push di un sito in Hugo su GitHub\nl’unica cossa che manca è che GitHub chiederà di inserire nome utente e email all’atto di fare il commit. Ma basta seguire le istruzioni a schermo\nattualmente seguo questa procedura per caricare il sito che stai leggendo.",
+    "description": "come caricacare un sito su Github Pages e pubblicarlo sul web",
+    "tags": [],
+    "title": "Push Github Website",
+    "uri": "/tutorial/push-github-website/index.html"
   },
   {
     "breadcrumb": "",
