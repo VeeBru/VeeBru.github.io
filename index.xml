@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La vittoria :: La Vittoria</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>https://veebru.github.io/index.html</link>
     <description>Benvenuti nella home page del mio sito!&#xA;qui raccolgo tutto quello che mi serve e mi interessa&#xA;usalo pure, ma magari fammelo sapere</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2024 21:07:11 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Nov 2024 10:27:27 +0100</lastBuildDate>
+    <atom:link href="https://veebru.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Università</title>
-      <link>http://localhost:1313/universit%C3%A0/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/universit%C3%A0/index.html</guid>
+      <link>https://veebru.github.io/universit%C3%A0/index.html</link>
+      <pubDate>Sat, 16 Nov 2024 10:27:27 +0100</pubDate>
+      <guid>https://veebru.github.io/universit%C3%A0/index.html</guid>
       <description>qui si trovano i miei appunti sui corsi universitari che ho affrontato.&#xA;Gli schemi sono tratti dai libri citati in ogni pagina.&#xA;L’utilizzo di questo materiale è consentito per fini non commerciali, ma magari fammelo sapere e citami :)</description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/tutorial/index.html</link>
+      <link>https://veebru.github.io/tutorial/index.html</link>
       <pubDate>Thu, 14 Nov 2024 21:07:11 +0100</pubDate>
-      <guid>http://localhost:1313/tutorial/index.html</guid>
+      <guid>https://veebru.github.io/tutorial/index.html</guid>
       <description>permalink + ?raw=trueottenere un link usabile dal permalink di Github&#xA;Push Github Websitecome caricacare un sito su Github Pages e pubblicarlo sul web</description>
     </item>
   </channel>

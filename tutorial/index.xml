@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial :: La Vittoria</title>
-    <link>http://localhost:1313/tutorial/index.html</link>
+    <link>https://veebru.github.io/tutorial/index.html</link>
     <description>permalink + ?raw=trueottenere un link usabile dal permalink di Github&#xA;Push Github Websitecome caricacare un sito su Github Pages e pubblicarlo sul web</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Nov 2024 21:07:11 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://veebru.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>permalink &#43; ?raw=true</title>
-      <link>http://localhost:1313/tutorial/link-a-file-github/index.html</link>
+      <link>https://veebru.github.io/tutorial/link-a-file-github/index.html</link>
       <pubDate>Thu, 14 Nov 2024 21:07:11 +0100</pubDate>
-      <guid>http://localhost:1313/tutorial/link-a-file-github/index.html</guid>
+      <guid>https://veebru.github.io/tutorial/link-a-file-github/index.html</guid>
       <description>ottenere un link usabile dal permalink di Github</description>
     </item>
     <item>
       <title>Push Github Website</title>
-      <link>http://localhost:1313/tutorial/push-github-website/index.html</link>
+      <link>https://veebru.github.io/tutorial/push-github-website/index.html</link>
       <pubDate>Wed, 13 Nov 2024 20:21:22 +0100</pubDate>
-      <guid>http://localhost:1313/tutorial/push-github-website/index.html</guid>
+      <guid>https://veebru.github.io/tutorial/push-github-website/index.html</guid>
       <description>come caricacare un sito su Github Pages e pubblicarlo sul web</description>
     </item>
   </channel>
