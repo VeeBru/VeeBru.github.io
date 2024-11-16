@@ -6,7 +6,7 @@
     <description>Benvenuti nella home page del mio sito!&#xA;qui raccolgo tutto quello che mi serve e mi interessa&#xA;usalo pure, ma magari fammelo sapere</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2024 10:27:27 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 18:46:23 +0100</lastBuildDate>
     <atom:link href="https://veebru.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Università</title>
@@ -18,9 +18,9 @@
     <item>
       <title>Tutorial</title>
       <link>https://veebru.github.io/tutorial/index.html</link>
-      <pubDate>Thu, 14 Nov 2024 21:07:11 +0100</pubDate>
+      <pubDate>Sat, 16 Nov 2024 18:46:23 +0100</pubDate>
       <guid>https://veebru.github.io/tutorial/index.html</guid>
-      <description>permalink + ?raw=trueottenere un link usabile dal permalink di Github&#xA;Push Github Websitecome caricacare un sito su Github Pages e pubblicarlo sul web</description>
+      <description>ecco una lista delle cose che uso, man mano che le uso.&#xA;Table Of Content in Markdown un piccolo tool per fare una ToC in Markdown senza librerie&#xA;permalink + ?raw=trueottenere un link usabile dal permalink di Github&#xA;push Github websitecome caricacare un sito su Github Pages e pubblicarlo sul web</description>
     </item>
   </channel>
 </rss>

@@ -3,20 +3,27 @@
   <channel>
     <title>Tutorial :: La Vittoria</title>
     <link>https://veebru.github.io/tutorial/index.html</link>
-    <description>permalink + ?raw=trueottenere un link usabile dal permalink di Github&#xA;Push Github Websitecome caricacare un sito su Github Pages e pubblicarlo sul web</description>
+    <description>ecco una lista delle cose che uso, man mano che le uso.&#xA;Table Of Content in Markdown un piccolo tool per fare una ToC in Markdown senza librerie&#xA;permalink + ?raw=trueottenere un link usabile dal permalink di Github&#xA;push Github websitecome caricacare un sito su Github Pages e pubblicarlo sul web</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2024 21:07:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 18:46:23 +0100</lastBuildDate>
     <atom:link href="https://veebru.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>permalink &#43; ?raw=true</title>
+      <title> Table Of Content in Markdown </title>
+      <link>https://veebru.github.io/tutorial/markdown-toc/index.html</link>
+      <pubDate>Sat, 16 Nov 2024 18:46:23 +0100</pubDate>
+      <guid>https://veebru.github.io/tutorial/markdown-toc/index.html</guid>
+      <description>un piccolo tool per fare una ToC in Markdown senza librerie</description>
+    </item>
+    <item>
+      <title>   permalink &#43; ?raw=true</title>
       <link>https://veebru.github.io/tutorial/link-a-file-github/index.html</link>
       <pubDate>Thu, 14 Nov 2024 21:07:11 +0100</pubDate>
       <guid>https://veebru.github.io/tutorial/link-a-file-github/index.html</guid>
       <description>ottenere un link usabile dal permalink di Github</description>
     </item>
     <item>
-      <title>Push Github Website</title>
+      <title>    push Github website</title>
       <link>https://veebru.github.io/tutorial/push-github-website/index.html</link>
       <pubDate>Wed, 13 Nov 2024 20:21:22 +0100</pubDate>
       <guid>https://veebru.github.io/tutorial/push-github-website/index.html</guid>

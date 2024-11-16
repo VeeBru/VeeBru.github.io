@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Table Of Content in Markdown  :: La Vittoria</title>
+    <link>https://veebru.github.io/tutorial/markdown-toc/index.html</link>
+    <description>un piccolo tool per fare una ToC in Markdown senza librerie</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://veebru.github.io/tutorial/markdown-toc/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
